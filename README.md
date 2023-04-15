@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-# 💫 About Me:\
-<br/>
+# 💫 About Me:
+
 ### <div align="center">I'm Kunal, a passionate Full Stack Developer 👨‍💻</div>  
  
 <br/>
@@ -34,11 +34,11 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=paznix&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paznix&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paznix&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+
 <br/>  
 
 
