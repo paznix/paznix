@@ -46,16 +46,15 @@
 
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4mk0tq8twqcxrfm2pkfvks9ud&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=4mk0tq8twqcxrfm2pkfvks9ud&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" />
 
-[![](https://gtce.itsvg.in/api?username=paznic_gg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)</div>  
+[![](https://gtce.itsvg.in/api?username=paznic_gg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <br/>  
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=paznix&&style=flat-square" />
-</div>  
-  
+
 
 <br/>  
 
