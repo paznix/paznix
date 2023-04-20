@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm Kunal, a passionate Full Stack Developer 👨‍💻</div>  
  
-- 🔭 I’m currently working on [BookMyShow Clone](https://github.com/paznix/Book-my-show)  
+- 🔭 I’m currently working on [BookMyShow Clone](https://book-my-show-five-rouge.vercel.app/)  
   
 
 - 🌱 I’m currently learning React.js and TailwindCSS  
