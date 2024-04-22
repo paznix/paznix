@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Kunal, a passionate Full Stack Developer 👨‍💻</div>  
  
-- 🔭 I’m currently working on a Food Delivery Site 
+- 🔭 I’m currently working on a Chat Application
   
 
 - 🌱 I’m currently learning React.js and TailwindCSS  
