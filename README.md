@@ -1,10 +1,8 @@
 
   
-### 💫 About Me:
+### 💫 About Me
 
-### <div align="center">I'm Kunal, a passionate Full Stack Developer 👨‍💻</div>  
- 
-# Kunal Saini
+# <div align="center">I'm Kunal Saini, a passionate Full Stack Developer 👨‍💻</div>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaznix%2Fpaznix&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/paznic_gg)](https://twitter.com/paznic_gg)
