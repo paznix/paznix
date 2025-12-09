@@ -12,7 +12,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kunalsaini.vercel.app/)](https://kunalsaini.vercel.app/)
 [![Github](https://img.shields.io/github/followers/paznix?label=Follow&style=social)](https://github.com/paznix)
 
-🔭 Full Stack Developer Intern at Cairovision
+🔭 Full Stack Developer at Cairovision
 
 🌱 I’m currently enhancing my skills in MERN Stack
 
